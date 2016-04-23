@@ -4,3 +4,5 @@ commit 记录索引的状态
 pull 取得远端数据库的内容
 test by ywc
 git commit by ywc
+test new source tree 2.7.4
+同时
